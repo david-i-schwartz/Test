@@ -5,6 +5,8 @@
 
 A C# console app that rolls a simulated die with a user-chosen number of sides.
 
+Open `DieRoller/DieRoller.sln` in Visual Studio 2022 (17.8 or later) and press F5, or from a command prompt:
+
 ```
 cd DieRoller
 dotnet run
